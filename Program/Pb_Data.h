@@ -11,6 +11,7 @@
 #include <sstream> 
 #include <time.h>
 #include <math.h>
+#include <algorithm>
 
 using namespace std ;
 
